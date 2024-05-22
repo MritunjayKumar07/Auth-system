@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/MritunjayKumar07/Auth-system-server.git
+[submodule "client-ReactJs"]
+	path = client-ReactJs
+	url = https://github.com/MritunjayKumar07/Auth-system-reactjs.git
